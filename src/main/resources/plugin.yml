@@ -1,0 +1,7 @@
+name: one_heart
+main: me.faiz.one_heart.Main
+version: 0.0.1
+api-version: 1.16
+
+depend:
+  - Kotlin
